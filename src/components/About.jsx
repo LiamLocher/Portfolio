@@ -42,7 +42,7 @@ function About() {
             <div className='justify-self-center '>
               <div className='transition-transform duration-300 hover:scale-105 flex justify-center'>
                 <img
-                  src="public/Profile_about.png"
+                  src="/Profile_about.png"
                   className="w-2/3 pb-16" />
               </div>
 

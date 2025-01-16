@@ -7,7 +7,7 @@ function PortraitPanel() {
     <>
     <div className="hero min-h-screen">
         <img
-            src="public/ProfilePhoto.png"
+            src="/ProfilePhoto.png"
             className="h-auto w-2/3" />
     </div>
     </>
