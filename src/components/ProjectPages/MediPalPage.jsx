@@ -5,7 +5,7 @@ function Medipal() {
   return (
     <div className="bg-LLlightBlue min-h-screen">
       <Navbar />
-      <div className="container mx-auto pt-16">
+      <div className="px-4 md:px-6 lg:px-8 container mx-auto pt-16">
         <div className='prose max-w-none'>
             {/* Header */}
             <h1 className="text-6xl mb-4 text-slate-900">MediPal</h1>

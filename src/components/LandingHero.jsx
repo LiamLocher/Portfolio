@@ -11,7 +11,7 @@ function Hero() {
     <div className="grid grid-cols-2  w-screen h-screen">
       
       <div className="col-span-1 bg-LLlightPink rounded-lg">
-        <div className='ml-16 mt-48'>
+        <div className='ml-16 mt-[10vh]'>
           <article className='prose'>
             <h1 className='text-8xl mb-4'>Hi There! I'm Liam.</h1>
 
